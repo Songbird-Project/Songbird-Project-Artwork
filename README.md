@@ -1,4 +1,6 @@
 # SongbirdOS
 
-## Plan:
+## Plan
+
+> *OUTDATED*
 ![Plan](<./Planning/Final Plan.svg>)
